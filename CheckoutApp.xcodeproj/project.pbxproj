@@ -15,7 +15,6 @@
 		6515ACB91CE5FD6200F6EF7D /* CartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6515ACB81CE5FD6200F6EF7D /* CartViewController.swift */; };
 		6515ACBB1CE5FD6D00F6EF7D /* CheckoutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6515ACBA1CE5FD6D00F6EF7D /* CheckoutViewController.swift */; };
 		6515ACBD1CE5FD8400F6EF7D /* ModalCheckoutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6515ACBC1CE5FD8400F6EF7D /* ModalCheckoutViewController.swift */; };
-		653FC9961CE635F0000198FC /* result.mov in Resources */ = {isa = PBXBuildFile; fileRef = 653FC9951CE635F0000198FC /* result.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +28,6 @@
 		6515ACB81CE5FD6200F6EF7D /* CartViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CartViewController.swift; sourceTree = "<group>"; };
 		6515ACBA1CE5FD6D00F6EF7D /* CheckoutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheckoutViewController.swift; sourceTree = "<group>"; };
 		6515ACBC1CE5FD8400F6EF7D /* ModalCheckoutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModalCheckoutViewController.swift; sourceTree = "<group>"; };
-		653FC9951CE635F0000198FC /* result.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = result.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,7 +69,6 @@
 				6515ACB81CE5FD6200F6EF7D /* CartViewController.swift */,
 				6515ACBA1CE5FD6D00F6EF7D /* CheckoutViewController.swift */,
 				6515ACBC1CE5FD8400F6EF7D /* ModalCheckoutViewController.swift */,
-				653FC9951CE635F0000198FC /* result.mov */,
 			);
 			path = CheckoutApp;
 			sourceTree = "<group>";
@@ -136,7 +133,6 @@
 			files = (
 				6515ACB11CE5FCFA00F6EF7D /* LaunchScreen.storyboard in Resources */,
 				6515ACAE1CE5FCFA00F6EF7D /* Assets.xcassets in Resources */,
-				653FC9961CE635F0000198FC /* result.mov in Resources */,
 				6515ACAC1CE5FCFA00F6EF7D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
